@@ -1,0 +1,66 @@
+Hi Farhan,
+
+Thanks again for your interest in TribalScale. Less than 10 percent of applicants make it to the. next phase, and we’ve enjoyed reviewing your application so far.
+
+As a next step, we’d love for you to complete a short take-home exercise. This helps us understand how you think and approach building software, not just what’s on your resume.
+
+The Exercise
+
+Build a simple function or API that:
+
+• Takes a block of text as input
+• Uses an AI model (e.g., OpenAI, Claude, etc.) to:
+• Generate a short summary
+• Extract 3 key action items
+• Returns the result in structured JSON format
+
+Guidelines
+
+• Please spend no more than 2–3 hours
+• Use any language, tools, or frameworks you’re comfortable with
+• Keep it simple... we are not looking for a full production app
+
+We’re primarily evaluating:
+
+• How you structure your solution
+• How you use AI tools
+• How clearly you communicate your thinking
+
+What to Submit
+
+Please send us:
+
+1. Your code (GitHub repo, gist, or file)
+2. A short explanation (bullet points are perfect):
+• What you built
+• The prompt(s) you used
+• What didn’t work at first and how you adjusted
+• What you would improve with more time
+
+You can send it to fullstack@tribalscale.com or submit via the link in this email.
+
+To be Clear:
+
+This is not about perfection.
+
+We’re much more interested in:
+
+• Your approach
+• Your decision-making
+• Your ability to learn and iterate
+
+It’s completely okay if your solution is incomplete or rough in places.
+
+Timeline
+
+Please submit your solution within 10 days.
+
+If you have any questions or run into issues, feel free to reach out—we’re happy to help.
+
+Looking forward to seeing your approach!
+
+Best,
+Heather & the TribalScale Team
+
+Please submit here:
+https://app6.greenhouse.io/tests/df7e57a681d84d14feade6ed818e057d?utm_medium=email&utm_source=TakeHomeTest&utm_source=Automated
